@@ -6,7 +6,7 @@ on:
 
 env:
   DOCKER_CLI_EXPERIMENTAL: enabled
-  IMAGE_NAME: decred/dcrd
+  IMAGE_NAME: peterzen/dcrd
 
 jobs:
   build-and-push:
